@@ -1,18 +1,24 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int ans1 = 0, ans2 = 0, len = nums.size();
-        sort(nums.begin(), nums.end());
+        long long int firstMax = INT64_MIN, secondMax = INT64_MIN,
+                      firstMin = INT64_MAX, secondMin = INT64_MAX;
 
-        if (nums[0] < 0 && nums[1] < 0) {
-            ans1 = (nums[0] - 1) * (nums[1] - 1);
-        }
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] > firstMax) {
+                secondMax = firstMax;
+                firstMax = nums[i];
+            } else if (nums[i] > secondMax) {
+                secondMax = nums[i];
+            }
 
-        ans2 = (nums[len - 1] - 1) * (nums[len - 2] - 1);
-        if (ans1 > ans2) {
-            return ans1;
-        } else {
-            return ans2;
+            if (nums[i] < firstMin) {
+                secondMin = firstMin;
+                firstMin = nums[i];
+            } else if (nums[i] < secondMin) {
+                secondMin = nums[i];
+            }
         }
+        return max(((firstMax - 1) * (secondMax - 1)), ((firstMin - 1) * (secondMin - 1)));
     }
 };
