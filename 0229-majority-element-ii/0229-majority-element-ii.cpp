@@ -3,11 +3,11 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
         vector<int> ans;
         unordered_map<int, int> freq;
+        int count = nums.size() / 3;
 
         for (int i : nums) {
             freq[i]++;
         }
-        int count = nums.size() / 3;
 
         for(const auto& p: freq){
             if(p.second > count){
