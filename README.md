@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
