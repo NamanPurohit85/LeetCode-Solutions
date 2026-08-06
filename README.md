@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
