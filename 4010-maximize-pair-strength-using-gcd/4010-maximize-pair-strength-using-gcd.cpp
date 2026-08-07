@@ -10,10 +10,10 @@ public:
         long long ans = 0;
         for (int i = 0; i < n - 1; i++) {
             for (int j = i + 1; j < n; j++) {
-                long long numerator = (long long)nums[i] * (long long)nums[j];
-                long long denominator = gcd(nums[i], nums[j]);
-                denominator *= denominator;
-                ans = max(ans, numerator / denominator);
+                long long current =
+                    (long long)(nums[i] / gcd(nums[i], nums[j])) *
+                    (long long)(nums[j] / gcd(nums[i], nums[j]));
+                ans = max(ans, current);
             }
         }
         return ans;
