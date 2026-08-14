@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0707-design-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
