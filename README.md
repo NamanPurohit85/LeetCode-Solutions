@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0503-next-greater-element-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -120,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
