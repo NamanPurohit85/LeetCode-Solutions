@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0707-design-linked-list) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 ## Stack
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
