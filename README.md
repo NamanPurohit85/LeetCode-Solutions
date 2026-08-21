@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Timsort
 |  |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
