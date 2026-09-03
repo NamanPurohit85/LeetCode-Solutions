@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
