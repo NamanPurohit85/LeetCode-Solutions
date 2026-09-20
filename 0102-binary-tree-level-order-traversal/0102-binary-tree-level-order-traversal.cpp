@@ -23,6 +23,7 @@ public:
         while (!q.empty()) {
             int levelSize = q.size();
             vector<int> currentLevel;
+            currentLevel.reserve(levelSize); // Avoid vector reallocation
 
             for (int i = 0; i < levelSize; ++i) {
                 TreeNode* curr = q.front();
@@ -38,7 +39,7 @@ public:
                 }
             }
 
-            ans.push_back(currentLevel);
+            ans.push_back(std::move(currentLevel)); // Move instead of copy
         }
 
         return ans;
