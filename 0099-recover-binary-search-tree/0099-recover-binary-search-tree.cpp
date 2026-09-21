@@ -11,29 +11,33 @@
  * };
  */
 class Solution {
-public:
-    TreeNode* prev = NULL;
-    TreeNode* first = NULL;
-    TreeNode* second = NULL;
-    void inorder(TreeNode* root) {
-        if (root == NULL)
+    void inorder(TreeNode* root, TreeNode*& prev, TreeNode*& first,
+                 TreeNode*& second) {
+        if (!root)
             return;
 
-        inorder(root->left);
-        if (prev != NULL && root->val < prev->val) {
-            if (first == NULL) {
+        inorder(root->left, prev, first, second);
+
+        if (prev && root->val < prev->val) {
+            if (!first)
                 first = prev;
-            }
             second = root;
         }
         prev = root;
-        inorder(root->right);
-    }
-    void recoverTree(TreeNode* root) {
-        inorder(root);
 
-        int temp = first->val;
-        first->val = second->val;
-        second->val = temp;
+        inorder(root->right, prev, first, second);
+    }
+
+public:
+    void recoverTree(TreeNode* root) {
+        TreeNode* prev = nullptr;
+        TreeNode* first = nullptr;
+        TreeNode* second = nullptr;
+
+        inorder(root, prev, first, second);
+
+        if (first && second) {
+            swap(first->val, second->val);
+        }
     }
 };
