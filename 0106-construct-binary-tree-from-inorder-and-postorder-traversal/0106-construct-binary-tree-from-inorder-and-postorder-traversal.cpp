@@ -29,6 +29,7 @@ public:
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         int postIdx = postorder.size() - 1;
         unordered_map<int, int> inMap;
+        inMap.reserve(inorder.size());
         for(int i = 0; i < inorder.size(); i++){
             inMap[inorder[i]] = i;
         }
