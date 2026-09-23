@@ -12,30 +12,26 @@
  */
 class Solution {
 public:
-    int search(vector<int>& inorder, int val, int right) {
-        for (int i = 0; i <= right; i++) {
-            if (inorder[i] == val) {
-                return i;
-            }
-        }
-        return 0;
-    }
     TreeNode* helper(vector<int>& inorder, vector<int>& postorder, int& postIdx,
-                     int left, int right) {
+                     int left, int right, unordered_map<int, int>& inMap) {
         if (left > right) {
             return NULL;
         }
 
         TreeNode* root = new TreeNode(postorder[postIdx]);
-        int inIdx = search(inorder, postorder[postIdx], right);
+        int inIdx = inMap[root->val];
         postIdx--;
 
-        root->right = helper(inorder, postorder, postIdx, inIdx + 1, right);
-        root->left = helper(inorder, postorder, postIdx, left, inIdx - 1);
+        root->right = helper(inorder, postorder, postIdx, inIdx + 1, right, inMap);
+        root->left = helper(inorder, postorder, postIdx, left, inIdx - 1, inMap);
         return root;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         int postIdx = postorder.size() - 1;
-        return helper(inorder, postorder, postIdx, 0, inorder.size() - 1);
+        unordered_map<int, int> inMap;
+        for(int i = 0; i < inorder.size(); i++){
+            inMap[inorder[i]] = i;
+        }
+        return helper(inorder, postorder, postIdx, 0, inorder.size() - 1, inMap);
     }
 };
