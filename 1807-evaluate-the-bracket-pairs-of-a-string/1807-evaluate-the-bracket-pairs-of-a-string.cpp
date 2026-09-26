@@ -1,24 +1,37 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        unordered_map<string, string> map;
-        for (int i = 0; i < knowledge.size(); i++) {
-            map[knowledge[i][0]] = knowledge[i][1];
+        
+        unordered_map<string, string> mp;
+        for (const auto& pair : knowledge) {
+            mp[pair[0]] = pair[1];
         }
 
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == '(') {
-                int j = i;
-                string key = "";
-                while (s[++j] != ')') {
-                    key.push_back(s[j]);
+        string res = "";
+        res.reserve(s.size());
+
+        string key = "";
+        bool inside = false;
+
+        for (char c : s) {
+            if (c == '(') {
+                inside = true;
+                key.clear();
+            } else if (c == ')') {
+                inside = false;
+                auto it = mp.find(key);
+                if (it != mp.end()) {
+                    res += it->second;
+                } else {
+                    res += '?';
                 }
-                string replacement =
-                    map.find(key) != map.end() ? map[key] : "?";
-                s.replace(i, j - i + 1, replacement);
-                i += replacement.size() - 1;
+            } else if (inside) {
+                key += c;
+            } else {
+                res += c;
             }
         }
-        return s;
+
+        return res;
     }
 };
