@@ -1,8 +1,12 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        
+
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
         unordered_map<string, string> mp;
+        mp.reserve(knowledge.size());
         for (const auto& pair : knowledge) {
             mp[pair[0]] = pair[1];
         }
