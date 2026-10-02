@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0086-partition-list) |
