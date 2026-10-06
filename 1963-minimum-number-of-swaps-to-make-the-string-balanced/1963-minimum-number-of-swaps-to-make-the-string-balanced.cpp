@@ -1,19 +1,16 @@
 class Solution {
 public:
     int minSwaps(string s) {
-        int count1 = 0, count2 = 0;
-
-            for (int i = 0; i < s.size(); i++) {
-            if (s[i] == '[')
-                count1++;
-            else {
-                if (count1)
-                    count1--;
-                else {
-                    count2++;
-                }
+        int size = 0, openBrackets = 0;
+        for (char& ch : s) {
+            if (ch == '[') {
+                openBrackets++;
+            } else if (openBrackets > 0) {
+                openBrackets--;
+            } else {
+                size++;
             }
         }
-        return (count2+1)/2;
+        return (size + 1) / 2;
     }
 };
