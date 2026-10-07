@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0994-rotting-oranges](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -192,11 +193,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
