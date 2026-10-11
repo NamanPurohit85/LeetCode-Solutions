@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -425,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
