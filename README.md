@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
@@ -446,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/NamanPurohit85/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
